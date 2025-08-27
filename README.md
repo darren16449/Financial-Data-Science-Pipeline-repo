@@ -38,19 +38,6 @@ The pipeline demonstrates industry-standard workflows including:
 
 ---
 
-## 📊 Example Visuals  
-
-### Stock Trends  
-![Stock Trends](results/stock_trends.png)  
-
-### Correlation Heatmap  
-![Correlation Heatmap](results/correlation.png)  
-
-### Efficient Frontier  
-![Efficient Frontier](results/efficient_frontier.png)  
-
----
-
 ## 🛠️ Technologies Used  
 - **Languages:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, yFinance, SciPy, scikit-learn  
